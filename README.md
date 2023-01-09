@@ -1,2 +1,1 @@
-# creative-computing
-Ein Digitaler Garten
+# Creative Computing - Ein digitaler Garten
