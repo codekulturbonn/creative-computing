@@ -17,7 +17,7 @@ Creative Computing ist ein Teil der Informatik, der sich mit dem kreativen Einsa
 
 > *Informatik* - Das Erstellen von Artefakten am Computer bereitet junge Menschen nicht nur auf eine Karriere als Informatiker oder Programmierer vor. Es unterstützt ihre Entwicklung zu "computergestützten Denkern" - Menschen, die in allen Aspekten ihres Lebens, über Disziplinen und Kontexte hinweg, auf computergestützte Konzepte, Praktiken und Perspektiven zurückgreifen können.
 
-Creative Computing ist überhaupt keine neue Idee. Hier ist [ein Artikel von Jeff Atwood aus 2005](https://blog.codinghorror.com/the-best-of-creative-computing/) auf codinghorror über alte Magazine aus den 1970ern mit ebendiesem Titel. Viele der erwähnten Magazin gibt es [auf archive.org](https://archive.org/search.php?query=creator%3A%22Ahl%2C+David+H%22).
+Creative Computing ist überhaupt keine neue Idee. Hier ist [ein Artikel von Jeff Atwood aus 2005](https://blog.codinghorror.com/the-best-of-creative-computing/) auf codinghorror über alte Magazine aus den 1970ern mit ebendiesem Titel. Viele der erwähnten Magazine gibt es [auf archive.org](https://archive.org/search.php?query=creator%3A%22Ahl%2C+David+H%22).
 
 Seit Anfang 2021 trifft sich eine kleine Gruppe Bonner Jugendlicher Dienstags teils virtuell, teils vor Ort, zu einer Stunde Coden. Wir haben [ein privates Forum zum Austausch](https://meetup.codekulturbonn.de/groups/2) und als Journal und [nutzen die Github-Organisation Conde.Kultur.Bonn](https://github.com/orgs/codekulturbonn/repositories) zum Austausch von Code. Das ganze ist so etwas wie ein [Coderdojo](https://coderdojo.com/de-DE) oder [Code Club](https://international.codeclub.org/). 
 
