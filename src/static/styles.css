@@ -64,6 +64,10 @@ h1 > small {
 #teasers img {
     border: solid 10px white;
 }
+
+.kinopio-embed {
+    border: solid 1px #eee;
+}
     
 footer {
     max-width: 600px;
