@@ -27,12 +27,15 @@
     <body>
         <main>
             <header><img alt="{{ page.meta.image.alt }}" src="{{ page.meta.image.src }}"></header>
-            <h1>{{ site.title }}: {{ page.meta.title }}</h1>
+            <h1><small>{{ site.title }}</small>{{ page.meta.title }}</h1>
+            {{# page.meta.summary }}
+                <p class="lead">{{ page.meta.summary }}</p>
+            {{/ page.meta.summary }}
             {{{ content }}}
         </main>
 
         <footer>
-          <p>&copy; {{ site.year }} &middot; {{ site.title }}</p>
+          <p>&copy; {{ site.year }} &middot; {{ site.title }} &middot; <a href="about.html">Impressum</a></p>
 	  {{^ page.is_index }}
             <nav>
               {{# site.menu }}

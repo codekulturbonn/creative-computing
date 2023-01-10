@@ -14,10 +14,10 @@ image_sizes:
 menu:
   - title: Start
     href: ./
-    img: ./images/home-200.png
+    img: ./images/banner-200.jpg
   - title: Sich unterhalten
     href: ./unterhalten.html
-    img: ./images/florian-van-schreven-ZFMJ5xECg2I-unsplash-200.jpg
+    img: ./images/chat-200.jpg
 
 
 # https://www.goodreads.com/author/quotes/4.Douglas_Adams

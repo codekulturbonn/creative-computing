@@ -13,9 +13,17 @@ main {
     padding: 20px;
 }
 
+hr {
+    color: #eee;
+}
+
 main p {
     font-size: 1.2em;
     line-height: 1.2em;
+}
+
+main p.lead {
+    font-size: 1.4em;
 }
 
 header img {
@@ -29,6 +37,12 @@ h1, h2 {
 h1 {
     border-left: solid 10px #c00;
     padding: 10px;
+}
+
+h1 > small {
+    display: block;
+    font-size: 0.6em;
+    font-weight: normal;
 }
 
 #teasers {

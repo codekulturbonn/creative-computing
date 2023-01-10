@@ -1,7 +1,13 @@
 ---
 title: Sich unterhalten
 summary: >
-    Computer wurden schon immer zum Austausch von Nachrichten genutzt, EMail, Chatprogramme, Social Media. 
+    Computer wurden schon immer zum Austausch von Nachrichten genutzt: EMail, Chatprogramme, Social Media. 
+image:
+    alt: Unterhalten
+    src: ./images/chat-1920.jpg
+teaser_image:
+    alt: Unterhalten
+    src: ./images/chat-200.jpg
 ---
 Im April 2021 haben wir uns die Cäsar-Verschlüsselung angesehen ([geschlossene Gruppe](https://meetup.codekulturbonn.de/groups/2/discussions/37)). Mir fallen noch viele weitere Themen in diesem Bereich ein:
 

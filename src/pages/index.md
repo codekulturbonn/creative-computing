@@ -1,7 +1,12 @@
 ---
 title: Dienstags Coden
+image:
+    alt: Start
+    src: ./images/banner-1920.jpg
+teaser_image:
+    alt: Start
+    src: ./images/banner-200.jpg
 ---
-
 Creative Computing ist ein Teil der Informatik, der sich mit dem kreativen Einsatz von Informationstechnik beschäftigt. Man kann das sogar studieren, etwa [in London](https://www.gold.ac.uk/ug/bsc-creative-computing/).
 
 [Die Seite zu Scratch](https://scratched.gse.harvard.edu/guide/), einer wichtigen Programmierumgebung für Creative Computing mit Kindern, definiert die Idee über die drei Säulen Kreativität, Wirksamkeit und Informatik:
@@ -27,9 +32,9 @@ Inzwischen haben wir uns mit einigen dieser Themen mal mehr, mal weniger beschä
 
 <section id="teasers">
 {{# pages }}
-  {{^ is_index }}
+  {{# in_menu }}
     {{> teaser }}
-  {{/ is_index }}
+  {{/ in_menu }}
 {{/ pages }}
 </section>
 
