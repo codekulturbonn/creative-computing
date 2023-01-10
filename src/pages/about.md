@@ -19,3 +19,5 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die
 
 * Startseite: [Dragos Gontariu](https://unsplash.com/de/fotos/54VAb3f1z6w)
 * Unterhalten: [Jason Leung](https://unsplash.com/de/fotos/mZNRsYE9Qi4)
+* Retrocomputing: [Xenia Radchenko](https://unsplash.com/de/fotos/ezEn4jYrVYQ)
+* Tildeverse: [Gabriel Heinzer](https://unsplash.com/de/fotos/4Mw7nkQDByk)
