@@ -9,7 +9,7 @@ teaser_image:
     alt: Unterhalten
     src: ./images/chat-200.jpg
 ---
-Im April 2021 haben wir uns die Cäsar-Verschlüsselung angesehen ([geschlossene Gruppe](https://meetup.codekulturbonn.de/groups/2/discussions/37)). Mir fallen noch viele weitere Themen in diesem Bereich ein:
+Im April 2021 haben wir uns die Cäsar-Verschlüsselung angesehen ([geschlossene Gruppe](https://meetup.codekulturbonn.de/groups/2/discussions/37); [Projekt auf raspberrypi.org](https://projects.raspberrypi.org/de-DE/projects/secret-messages); [Web-Anwendung](https://lena.pro/caesar)). Mir fallen noch viele weitere Themen in diesem Bereich ein:
 
 ---
 Sich unterhalten mit einer künstlichen Intelligenz. Chatbots von [Eliza](https://de.wikipedia.org/wiki/ELIZA) bis [ChatGPT](https://de.wikipedia.org/wiki/ChatGPT)
