@@ -69,6 +69,11 @@ h1 > small {
     border: solid 1px #eee;
 }
     
+aside {
+    position: relative;
+    left: 100px;
+}
+
 footer {
     max-width: 600px;
     margin: 0 auto;

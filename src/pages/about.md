@@ -21,3 +21,4 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die
 * Unterhalten: [Jason Leung](https://unsplash.com/de/fotos/mZNRsYE9Qi4)
 * Retrocomputing: [Xenia Radchenko](https://unsplash.com/de/fotos/ezEn4jYrVYQ)
 * Tildeverse: [Gabriel Heinzer](https://unsplash.com/de/fotos/4Mw7nkQDByk)
+* Digitaler Garten: [Markus Spiske](https://unsplash.com/de/fotos/sFydXGrt5OA)
